@@ -2,5 +2,5 @@
 
 # participation-Names
 
-Ines ikirezi i.ikirezi@alustudent.com
-Kayitesi Liliane l.kayitesi@alustudent.com
+Name: Ines ikirezi Email: i.ikirezi@alustudent.com
+Name: Kayitesi Liliane Email: l.kayitesi@alustudent.com
